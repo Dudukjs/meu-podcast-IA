@@ -1,0 +1,20 @@
+[Introdução]
+- Olá, bem-vindos ao podcast "Educação com IAs"!
+- Hoje vamos falar sobre como a Inteligência Artificial está transformando a educação.
+
+[Tópico 1: O que são IAs]
+- Inteligência Artificial (IA) é a capacidade de máquinas aprenderem e realizarem tarefas humanas.
+- Na educação, IAs podem ajudar professores, alunos e instituições a personalizar o aprendizado.
+
+[Tópico 2: Exemplos práticos]
+- Plataformas que criam exercícios adaptativos automaticamente.
+- Chatbots que respondem dúvidas de alunos em tempo real.
+- Ferramentas de análise que ajudam escolas a identificar dificuldades de aprendizado.
+
+[Tópico 3: Benefícios e desafios]
+- Benefícios: personalização, economia de tempo, mais engajamento dos alunos.
+- Desafios: ética, privacidade, dependência tecnológica.
+
+[Conclusão]
+- Recapitulando, IAs estão revolucionando a forma como aprendemos e ensinamos.
+- Se você gostou, siga nosso podcast e compartilhe com amigos!
