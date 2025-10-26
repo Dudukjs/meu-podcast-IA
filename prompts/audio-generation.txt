@@ -1,1 +1,6 @@
+Use o roteiro final do podcast para gerar um áudio de voz natural no Eleven Labs:
+- Tom: Informativo e amigável
+- Velocidade média
+- Sem pausas longas
+- Formato: mp3
 
