@@ -1,1 +1,8 @@
+Crie um roteiro detalhado para um episódio de podcast de 10 minutos sobre "Como IAs estão transformando a educação". 
+O roteiro deve ter:
+- Introdução (apresentação do podcast e do tema)
+- Tópico 1: O que são IAs e como funcionam na educação
+- Tópico 2: Exemplos de IAs aplicadas em escolas e universidades
+- Tópico 3: Benefícios e desafios do uso de IA
+- Conclusão: resumo e chamada para ação (seguir o podcast)
 
